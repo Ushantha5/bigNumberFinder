@@ -4,12 +4,13 @@ function main(even) {
     const c = parseFloat(document.getElementById)('c').value;
 if (a===b && b==c) {
         result= `a,b,c are equal and biggest`
+alert("result");
 
-    document.getElementById("output").innerHTML = result;
+  main =  document.getElementById("output").innerHTML = result;
 
 
 
    
 }
    
-    
+}
